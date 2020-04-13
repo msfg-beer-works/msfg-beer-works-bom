@@ -25,8 +25,8 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.github.mohankumaraln</groupId>
-    <artifactId>mohan-sfg-beer-works-bom</artifactId>
+    <groupId>com.github. msfg-beer-works</groupId>
+    <artifactId>msfg-beer-works-bom</artifactId>
     <version>1.0.18-SNAPSHOT</version>
     <packaging>pom</packaging>
 
@@ -514,14 +514,14 @@
     </profiles>
 
     <scm>
-        <connection>scm:git:git@github.com:mohankumaraln/mohan-sfg-beer-works-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:mohankumaraln/mohan-sfg-beer-works-bom.git</developerConnection>
-        <url>https://github.com/mohankumaraln/mohan-sfg-beer-works-bom</url>
+        <connection>scm:git:git@github.com:msfg-beer-works/msfg-beer-works-bom.git</connection>
+        <developerConnection>scm:git:git@github.com:msfg-beer-works/msfg-beer-works-bom.git</developerConnection>
+        <url>https://github.com/msfg-beer-works/msfg-beer-works-bom</url>
         <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/mohankumaraln/mohan-sfg-beer-works/issues</url>
+        <url>https://github.com/msfg-beer-works/msfg-beer-works/issues</url>
         <system>GitHub</system>
     </issueManagement>
 
